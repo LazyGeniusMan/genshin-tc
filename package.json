@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/LazyGeniusMan/genshin-tc#readme",
   "dependencies": {
+    "fast-csv": "^4.3.6",
     "genshin-db": "^3.7.3"
   }
 }

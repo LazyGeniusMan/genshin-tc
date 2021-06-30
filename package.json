@@ -1,0 +1,23 @@
+{
+  "name": "genshin-tc",
+  "version": "1.0.0",
+  "description": "Genshin Impact Theorycrafting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LazyGeniusMan/genshin-tc.git"
+  },
+  "keywords": [
+    "genshin",
+    "genshin-impact"
+  ],
+  "author": "LazyGeniusMan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LazyGeniusMan/genshin-tc/issues"
+  },
+  "homepage": "https://github.com/LazyGeniusMan/genshin-tc#readme"
+}

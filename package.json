@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/LazyGeniusMan/genshin-tc/issues"
   },
-  "homepage": "https://github.com/LazyGeniusMan/genshin-tc#readme"
+  "homepage": "https://github.com/LazyGeniusMan/genshin-tc#readme",
+  "dependencies": {
+    "genshin-db": "^3.7.3"
+  }
 }

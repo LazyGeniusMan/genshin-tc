@@ -1,2 +1,2 @@
-# genshin-tc
-Genshin Impact Theorycrafting
+# Genshin Theorycrafting
+Work in Progress!

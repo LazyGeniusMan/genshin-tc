@@ -1,4 +1,4 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,1143.9840087890625,18.6200008392334,59.83000183105469,healing_bonus,0
 2,0,1238.934618241241,20.16545987895961,64.79588867364873,healing_bonus,0
 3,0,1333.8853640669404,21.71092113836289,69.76178264853479,healing_bonus,0

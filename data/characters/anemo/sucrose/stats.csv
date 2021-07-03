@@ -1,4 +1,4 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,775.0223388671875,14.246399879455566,58.941749572753906,anemo_dmg,0
 2,0,839.3491501242679,15.42885028143769,63.83391152704098,anemo_dmg,0
 3,0,902.9009952155175,16.597055316108708,68.66713600380899,anemo_dmg,0

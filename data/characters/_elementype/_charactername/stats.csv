@@ -1,2 +1,2 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,1210.7164306640625,8.285900115966797,68.2061996459961,crit_dmg,0.5

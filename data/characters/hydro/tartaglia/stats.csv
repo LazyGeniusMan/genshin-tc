@@ -1,4 +1,4 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,1020.0524291992188,23.461200714111328,63.4197998046875,hydro_dmg,0
 2,0,1104.7167244004813,25.408479075670584,68.68363968053018,hydro_dmg,0
 3,0,1189.3811412014693,27.35576023402291,73.94748711660213,hydro_dmg,0

@@ -1,4 +1,4 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,784.1402587890625,20.12303924560547,49.2135009765625,pyro_dmg,0
 2,0,849.223856895318,21.793250389922832,53.29821883546538,pyro_dmg,0
 3,0,913.5233715766808,23.443339953497343,57.333726760349236,pyro_dmg,0

@@ -1,4 +1,4 @@
-level,ascension,hp,atk,def,ascension_stat,ascension_value
+level,ascension,base_hp,base_atk,base_def,ascension_stat,ascension_value
 1,0,802.3760986328125,17.808000564575195,50.358001708984375,cryo_dmg,0
 2,0,868.9732704374183,19.286063626419036,54.53771306537237,cryo_dmg,0
 3,0,934.7681242990075,20.746319978408792,58.66707006996148,cryo_dmg,0
